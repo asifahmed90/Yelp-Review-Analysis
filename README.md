@@ -9,6 +9,6 @@ Analysis between four different topologies of deep learning are done in Keras pl
 
 However, 1D CNN model can also be implemented. 
 
-To run the code initially first 100000 rows are chosen. 
+To run the code initially first 100000 rows are chosen from Yelp Review Dataset. 
 
 Yelp Database can be found in https://www.yelp.com/dataset.
