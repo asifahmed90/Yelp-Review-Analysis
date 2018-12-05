@@ -7,6 +7,8 @@ Analysis between four different topologies of deep learning are done in Keras pl
 (iii) GRU 
 (iv) Bidirectional RNN
 
-However, 1D CNN model can also be implemented.
+However, 1D CNN model can also be implemented. 
+
+To run the code initially first 100000 rows are chosen. 
 
 Yelp Database can be found in https://www.yelp.com/dataset.
